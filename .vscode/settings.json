@@ -1,0 +1,7 @@
+{
+  "chat.agent.tools": {
+    "enabled": true
+  },
+  "github.copilot.chat.agent.tools.enabled": true,
+    "github.copilot.chat.copilotMemory.enabled": true
+}
